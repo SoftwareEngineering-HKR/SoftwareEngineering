@@ -1,0 +1,15 @@
+[submodule "database"]
+	path = database
+	url = https://github.com/SoftwareEngineering-HKR/database.git
+[submodule "iot"]
+	path = iot
+	url = https://github.com/SoftwareEngineering-HKR/IOT.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SoftwareEngineering-HKR/frontend.git
+[submodule "andriod"]
+	path = andriod
+	url = https://github.com/SoftwareEngineering-HKR/andriod.git
+[submodule "feature_development"]
+	path = feature_development
+	url = https://github.com/SoftwareEngineering-HKR/feature_development.git
