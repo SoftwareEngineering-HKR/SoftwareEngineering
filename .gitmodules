@@ -1,5 +1,5 @@
 [submodule "database"]
-	path = database
+	path = backend
 	url = https://github.com/SoftwareEngineering-HKR/database.git
 [submodule "iot"]
 	path = iot
